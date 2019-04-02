@@ -83,5 +83,14 @@ Gene symbols used.
 | 1 | Ensembl gene ID
 | 2 | Gene symbol
 
+## germ_layers.txt
+Cell types to organs and germ layers.
+
+| Columns | Description
+| ------- |:--------------
+| 1 | Cell type
+| 2 | Germ layer
+| 3 | Organ
+
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
