@@ -92,5 +92,20 @@ Cell types to organs and germ layers.
 | 2 | Germ layer
 | 3 | Organ
 
+## metadata.txt
+Sample metadata.
+
+| Columns | Description
+| -------- |: -------
+| 1 | SRA accession
+| 2 | SRS accession
+| 3 | Tissue origin of the sample
+| 4 | scRNA-seq protocol
+| 5 | Species
+| 6 | Sequencing instrument
+| 7 | Number of expressed genes
+| 8 | Median number of expressed genes per cell
+| 9 | Number of cell clusters in this sample
+
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
