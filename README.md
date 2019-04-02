@@ -107,5 +107,13 @@ Sample metadata.
 | 8 | Median number of expressed genes per cell
 | 9 | Number of cell clusters in this sample
 
+## mito.txt
+Mitochondrial expression.
+
+| Columns | Description
+|-------- |:--------
+| 1 | SRA accession
+| 2 | SRS accession
+
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
