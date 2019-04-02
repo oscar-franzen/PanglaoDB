@@ -53,5 +53,17 @@ Clusters to number of cells
 | 3 | Cluster index
 | 4 | Number of cells
 
+## cyclone.txt
+Results from cell cycle analysis based on cyclone.
+
+| Column | Description
+| ------- |:----------
+| 1 | SRA accession
+| 2 | SRS accession
+| 3 | Cluster index
+| 4 | % cells in G1
+| 5 | % cells in G2M
+| 6 | % cells in S
+
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
