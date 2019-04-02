@@ -120,5 +120,16 @@ Mitochondrial expression.
 | 6 | Adjusted p-value
 | 7 | Mean perc mito reads
 
+## regulons.txt
+| Columns | Description
+| ------ |:----------
+| 1 | SRA accession
+| 2 | SRS accession
+| 3 | Cluster index
+| 4 | Transcription factor gene
+| 5 | TF binding site motif
+| 6 | Confidence (AUC)
+| 7 | Genes controlled by this TF
+
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
