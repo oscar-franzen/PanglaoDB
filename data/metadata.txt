@@ -1148,4 +1148,9 @@
 "SRA757817","SRS3666498","Embryonic kidney","10x chromium","Mus musculus","Illumina HiSeq 2500","27708","1261","17"
 "SRA807566","SRS4031561","Lung","drop-seq","Mus musculus","Illumina HiSeq 2500","28726","992","26"
 "SRA807566","SRS4031560","Lung","drop-seq","Mus musculus","Illumina HiSeq 2500","22301","747","14"
-"SRA776751","SRS3790782",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","11704","1002",\N
+"SRA776751","SRS3790782",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","11704","1002","7"
+"SRA661790","SRS2995081",\N,"10x chromium","Homo sapiens","Illumina HiSeq 4000","24648","1332",\N
+"SRA661790","SRS2995083",\N,"10x chromium","Homo sapiens","Illumina HiSeq 4000","23453","862",\N
+"SRA661790","SRS2995084",\N,"10x chromium","Homo sapiens","Illumina HiSeq 4000","22833","770",\N
+"SRA776751","SRS3790783",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","15480","1975",\N
+"SRA661790","SRS2995082",\N,"10x chromium","Homo sapiens","Illumina HiSeq 4000","24227","1117",\N
