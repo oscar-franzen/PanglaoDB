@@ -28,7 +28,7 @@ Mapping cell clusters to cell types.
 Markers that were used to determine the cell type.
 
 | Column | Description
-| -------- |: ---------
+| -------- |:---------
 | 1 | SRA accession
 
 # Reference
