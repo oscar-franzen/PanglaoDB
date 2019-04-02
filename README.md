@@ -14,7 +14,13 @@ Maps cell types to abbreviations.
 ## cell_type_annotations.txt
 | Column | Description
 | ----------- |:----------
-| 1 | SRA
+| 1 | SRA accession
+| 2 | SRS accession
+| 3 | Cluster index
+| 4 | Cell type annotation
+| 5 | P-value from Hypergeometric test
+| 6 | Adjusted p-value (BH)
+| 7 | Cell type Activity Score
 
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
