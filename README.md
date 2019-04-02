@@ -96,7 +96,7 @@ Cell types to organs and germ layers.
 Sample metadata.
 
 | Columns | Description
-| -------- |: -------
+| -------- |:-------
 | 1 | SRA accession
 | 2 | SRS accession
 | 3 | Tissue origin of the sample
