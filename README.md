@@ -131,5 +131,8 @@ Mitochondrial expression.
 | 6 | Confidence (AUC)
 | 7 | Genes controlled by this TF
 
+# Contact
+* Oscar Franzén <p.oscar.franzen@gmail.com>
+
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
