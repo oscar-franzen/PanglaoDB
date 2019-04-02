@@ -75,5 +75,13 @@ Expressed transcription factors.
 | 3 | Cluster index
 | 4 | Gene encoding the transcription factor
 
+## genes.txt
+Gene symbols used.
+
+| Column | Description
+| ------- |:------------
+| 1 | Ensembl gene ID
+| 2 | Gene symbol
+
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
