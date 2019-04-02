@@ -34,5 +34,14 @@ Markers that were used to determine the cell type.
 | 3 | Cluster index
 | 4 | Gene symbol
 
+## cell_type_desc.txt
+Cell types and their descriptions.
+
+| Column | Description
+| -------- |:--------
+| 1 | Cell type
+| 2 | Biological description of this cell type
+| 3 | Possible synonyms
+
 # Reference
 * Franzén,O., Gan,L.-M. and Björkegren,J.L.M. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data. Database (2019) Vol. 2019: doi:10.1093/database/baz046
