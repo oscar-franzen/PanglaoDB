@@ -25,7 +25,8 @@ Mapping cell clusters to cell types.
 | 7 | Cell type Activity Score
 
 ## cell_type_annotations_markers.txt
-Markers that were used to determine the cell ype.
+Markers that were used to determine the cell type.
+
 | Column | Description
 | -------- |: ---------
 | 1 | SRA accession
