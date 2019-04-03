@@ -106,6 +106,9 @@ Sample metadata.
 | 7 | Number of expressed genes
 | 8 | Median number of expressed genes per cell
 | 9 | Number of cell clusters in this sample
+| 10 | Is the sample from a tumor? (1 true otherwise false)
+| 11 | Is the sample from primary adult tissue?
+| 12 | Is the sample from a cell line?
 
 ## mito.txt
 Mitochondrial expression.
