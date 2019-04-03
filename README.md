@@ -2,6 +2,8 @@
 This repo contains data and metadata from the database https://PanglaoDB.se
 
 # *data* directory
+Files contain comma-delimited tables without headers.
+
 ## cell_type_abbrev.txt
 Maps cell types to abbreviations.
 
