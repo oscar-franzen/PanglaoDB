@@ -200,3 +200,4 @@
 "Noradrenergic neurons","Ectoderm","Brain"
 "Adrenergic neurons","Ectoderm","Brain"
 "Glycinergic neurons","Ectoderm","Brain"
+"Enterochromaffin cells","Endoderm","GI tract"
