@@ -4,6 +4,9 @@ This repo contains data and metadata from the database https://PanglaoDB.se
 # *data* directory
 Files contain comma-delimited tables without headers.
 
+## *sample_clusters* directory
+Contains cell clustering results.
+
 ## cell_type_abbrev.txt
 Maps cell types to abbreviations.
 
