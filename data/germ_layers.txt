@@ -201,3 +201,4 @@
 "Adrenergic neurons","Ectoderm","Brain"
 "Glycinergic neurons","Ectoderm","Brain"
 "Enterochromaffin cells","Endoderm","GI tract"
+"Tanycytes","Ectoderm","Brain"
