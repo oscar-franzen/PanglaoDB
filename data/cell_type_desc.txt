@@ -96,3 +96,4 @@
 "Reticulocytes","Reticulocyte, non-nucleated stage in the development of the red blood cell, just before full maturity is reached.",""
 "Nuocytes","A type of innate lymphoid cell.","ILC2, type 2 innate lymphoid cells, innate helper 2 cells"
 "Plasma cells","Fully differentiated B-lymphocyte (white blood cell) which produces a single type of antibody.",""
+"B cells naive","A naive B cell is a B cell that has not been exposed to an antigen.",""

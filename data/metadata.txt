@@ -1154,17 +1154,19 @@
 "SRA661790","SRS2995084","Monocyte-derived macrophages","10x chromium","Homo sapiens","Illumina HiSeq 4000","22833","770","9","0","1","0"
 "SRA776751","SRS3790783","Liver","10x chromium","Mus musculus","Illumina HiSeq 4000","15480","1975","11","0","0","0"
 "SRA661790","SRS2995082","Monocyte-derived macrophages","10x chromium","Homo sapiens","Illumina HiSeq 4000","24227","1117","12","0","1","0"
-"SRA665712","SRS3034952",\N,"10x chromium","Homo sapiens","NextSeq 500","25453","633","7",\N,\N,\N
-"SRA767215","SRS3741675",\N,"10x chromium","Mus musculus","NextSeq 500","19939","3094","7",\N,\N,\N
-"SRA676027","SRS3102136",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","31646","2664","10",\N,\N,\N
-"SRA676027","SRS3102138",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","30362","1986","14",\N,\N,\N
-"SRA676027","SRS3102137",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","30723","2234","17",\N,\N,\N
-"SRA676027","SRS3102139",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","30564","1636","17",\N,\N,\N
-"SRA665712","SRS3034950",\N,"10x chromium","Homo sapiens","NextSeq 500","28797","1208","18",\N,\N,\N
-"SRA767215","SRS3741672",\N,"10x chromium","Mus musculus","NextSeq 500","20052","3186","9",\N,\N,\N
-"SRA767215","SRS3741673",\N,"10x chromium","Mus musculus","NextSeq 500","20224","2388","10",\N,\N,\N
-"SRA665712","SRS3034951",\N,"10x chromium","Homo sapiens","NextSeq 500","32847","1261","21",\N,\N,\N
-"SRA767215","SRS3741671",\N,"10x chromium","Mus musculus","NextSeq 500","20014","2489","10",\N,\N,\N
-"SRA665712","SRS3034953",\N,"10x chromium","Homo sapiens","NextSeq 500","33351","1366",\N,\N,\N,\N
-"SRA676027","SRS3102140",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","30699","1826",\N,\N,\N,\N
-"SRA676027","SRS3102144",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","31081","2779",\N,\N,\N,\N
+"SRA665712","SRS3034952","T cells","10x chromium","Homo sapiens","NextSeq 500","25453","633","7","0","1","0"
+"SRA767215","SRS3741675","Leukemic cells","10x chromium","Mus musculus","NextSeq 500","19939","3094","7","1","0","0"
+"SRA676027","SRS3102136","Embryonic stem cell line","10x chromium","Homo sapiens","Illumina HiSeq 2500","31646","2664","10","0","0","1"
+"SRA676027","SRS3102138","Embryonic stem cell line","10x chromium","Homo sapiens","Illumina HiSeq 2500","30362","1986","14","0","0","1"
+"SRA676027","SRS3102137","Embryonic stem cell line","10x chromium","Homo sapiens","Illumina HiSeq 2500","30723","2234","17","0","0","1"
+"SRA676027","SRS3102139","Embryonic stem cell line","10x chromium","Homo sapiens","Illumina HiSeq 2500","30564","1636","17","0","0","1"
+"SRA665712","SRS3034950","T cells","10x chromium","Homo sapiens","NextSeq 500","28797","1208","18","0","1","0"
+"SRA767215","SRS3741672","Leukemic cells","10x chromium","Mus musculus","NextSeq 500","20052","3186","9","1","0","0"
+"SRA767215","SRS3741673","Leukemic cells","10x chromium","Mus musculus","NextSeq 500","20224","2388","10","1","0","0"
+"SRA665712","SRS3034951","T cells","10x chromium","Homo sapiens","NextSeq 500","32847","1261","21","0","1","0"
+"SRA767215","SRS3741671","Leukemic cells","10x chromium","Mus musculus","NextSeq 500","20014","2489","10","1","0","0"
+"SRA665712","SRS3034953","T cells","10x chromium","Homo sapiens","NextSeq 500","33351","1366","35","0","1","0"
+"SRA676027","SRS3102140","Embryonic stem cell line","10x chromium","Homo sapiens","Illumina HiSeq 2500","30699","1826","14","0","0","1"
+"SRA676027","SRS3102144","Embryonic stem cell line","10x chromium","Homo sapiens","Illumina HiSeq 2500","31081","2779","10","0","0","1"
+"SRA834897","SRS4252172",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","30439","3272","27",\N,\N,\N
+"SRA834897","SRS4252173",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","29548","3402","25",\N,\N,\N
