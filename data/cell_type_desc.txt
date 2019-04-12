@@ -97,3 +97,4 @@
 "Nuocytes","A type of innate lymphoid cell.","ILC2, type 2 innate lymphoid cells, innate helper 2 cells"
 "Plasma cells","Fully differentiated B-lymphocyte (white blood cell) which produces a single type of antibody.",""
 "B cells naive","A naive B cell is a B cell that has not been exposed to an antigen.",""
+"Pyramidal cells","A type of multipolar neuron found in areas of the brain including the cerebral cortex, the hippocampus, and the amygdala. Pyramidal neurons are the primary excitation units of the mammalian prefrontal cortex and the corticospinal tract.","Pyramidal neurons"
