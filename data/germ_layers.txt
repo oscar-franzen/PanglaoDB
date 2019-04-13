@@ -203,3 +203,4 @@
 "Enterochromaffin cells","Endoderm","GI tract"
 "Tanycytes","Ectoderm","Brain"
 "Gamma delta T cells","Mesoderm","Immune system"
+"Pinealocytes","Ectoderm","Brain"
