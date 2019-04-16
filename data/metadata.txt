@@ -1168,9 +1168,15 @@
 "SRA665712","SRS3034953","T cells","10x chromium","Homo sapiens","NextSeq 500","33351","1366","35","0","1","0"
 "SRA676027","SRS3102140","Embryonic stem cell line","10x chromium","Homo sapiens","Illumina HiSeq 2500","30699","1826","14","0","0","1"
 "SRA676027","SRS3102144","Embryonic stem cell line","10x chromium","Homo sapiens","Illumina HiSeq 2500","31081","2779","10","0","0","1"
-"SRA834897","SRS4252172","Macrophage from E14.5 body lysate","10x chromium","Mus musculus","Illumina NovaSeq 6000","30439","3272","27","0","0","0"
-"SRA834897","SRS4252173","Macrophage from E14.5 body lysate","10x chromium","Mus musculus","Illumina NovaSeq 6000","29548","3402","25","0","0","0"
+"SRA834897","SRS4252172","Macrophage from E14.5","10x chromium","Mus musculus","Illumina NovaSeq 6000","30439","3272","27","0","0","0"
+"SRA834897","SRS4252173","Macrophage from E14.5","10x chromium","Mus musculus","Illumina NovaSeq 6000","29548","3402","25","0","0","0"
 "SRA834897","SRS4252176","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","22067","503","20","0","0","0"
-"SRA834897","SRS4252174",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","30850","3618","27",\N,\N,\N
-"SRA834897","SRS4252177",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","20217","271","20",\N,\N,\N
-"SRA834897","SRS4252175",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","31279","3070","33",\N,\N,\N
+"SRA834897","SRS4252174","Macrophage from E14.5","10x chromium","Mus musculus","Illumina NovaSeq 6000","30850","3618","27","0","0","0"
+"SRA834897","SRS4252177","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","20217","271","20","0","1","0"
+"SRA834897","SRS4252175","Macrophage from E14.5","10x chromium","Mus musculus","Illumina NovaSeq 6000","31279","3070","33","0","0","0"
+"SRA843432","SRS4322339",\N,"10x chromium","Homo sapiens","NextSeq 500","24451","905","9",\N,\N,\N
+"SRA843432","SRS4322341",\N,"10x chromium","Homo sapiens","NextSeq 500","25977","1184","11",\N,\N,\N
+"SRA843432","SRS4322345",\N,"10x chromium","Homo sapiens","NextSeq 500","23786","971","15",\N,\N,\N
+"SRA843432","SRS4322346",\N,"10x chromium","Homo sapiens","NextSeq 500","23752","885","11",\N,\N,\N
+"SRA843432","SRS4322342",\N,"10x chromium","Homo sapiens","NextSeq 500","28271","1799","11",\N,\N,\N
+"SRA843432","SRS4322343",\N,"10x chromium","Homo sapiens","NextSeq 500","24448","989","11",\N,\N,\N
