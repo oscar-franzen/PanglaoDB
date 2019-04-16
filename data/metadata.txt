@@ -1180,3 +1180,7 @@
 "SRA843432","SRS4322346",\N,"10x chromium","Homo sapiens","NextSeq 500","23752","885","11",\N,\N,\N
 "SRA843432","SRS4322342",\N,"10x chromium","Homo sapiens","NextSeq 500","28271","1799","11",\N,\N,\N
 "SRA843432","SRS4322343",\N,"10x chromium","Homo sapiens","NextSeq 500","24448","989","11",\N,\N,\N
+"SRA755541","SRS3639051",\N,"10x chromium","Mus musculus","NextSeq 500","24287","1554","7",\N,\N,\N
+"SRA755541","SRS3639050",\N,"10x chromium","Mus musculus","NextSeq 500","25337","2302","9",\N,\N,\N
+"SRA755541","SRS3639053",\N,"10x chromium","Mus musculus","NextSeq 500","24573","2293","9",\N,\N,\N
+"SRA755541","SRS3639052",\N,"10x chromium","Mus musculus","NextSeq 500","24459","1518","8",\N,\N,\N
