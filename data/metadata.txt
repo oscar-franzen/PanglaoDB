@@ -1174,13 +1174,13 @@
 "SRA834897","SRS4252174","Macrophage from E14.5","10x chromium","Mus musculus","Illumina NovaSeq 6000","30850","3618","27","0","0","0"
 "SRA834897","SRS4252177","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","20217","271","20","0","1","0"
 "SRA834897","SRS4252175","Macrophage from E14.5","10x chromium","Mus musculus","Illumina NovaSeq 6000","31279","3070","33","0","0","0"
-"SRA843432","SRS4322339",\N,"10x chromium","Homo sapiens","NextSeq 500","24451","905","9",\N,\N,\N
-"SRA843432","SRS4322341",\N,"10x chromium","Homo sapiens","NextSeq 500","25977","1184","11",\N,\N,\N
-"SRA843432","SRS4322345",\N,"10x chromium","Homo sapiens","NextSeq 500","23786","971","15",\N,\N,\N
-"SRA843432","SRS4322346",\N,"10x chromium","Homo sapiens","NextSeq 500","23752","885","11",\N,\N,\N
-"SRA843432","SRS4322342",\N,"10x chromium","Homo sapiens","NextSeq 500","28271","1799","11",\N,\N,\N
-"SRA843432","SRS4322343",\N,"10x chromium","Homo sapiens","NextSeq 500","24448","989","11",\N,\N,\N
-"SRA755541","SRS3639051",\N,"10x chromium","Mus musculus","NextSeq 500","24287","1554","7",\N,\N,\N
-"SRA755541","SRS3639050",\N,"10x chromium","Mus musculus","NextSeq 500","25337","2302","9",\N,\N,\N
-"SRA755541","SRS3639053",\N,"10x chromium","Mus musculus","NextSeq 500","24573","2293","9",\N,\N,\N
-"SRA755541","SRS3639052",\N,"10x chromium","Mus musculus","NextSeq 500","24459","1518","8",\N,\N,\N
+"SRA843432","SRS4322339","Kaposi's sarcoma","10x chromium","Homo sapiens","NextSeq 500","24451","905","9","1","0","0"
+"SRA843432","SRS4322341","Kaposi's sarcoma","10x chromium","Homo sapiens","NextSeq 500","25977","1184","11","1","0","0"
+"SRA843432","SRS4322345","Kaposi's sarcoma","10x chromium","Homo sapiens","NextSeq 500","23786","971","15","1","0","0"
+"SRA843432","SRS4322346","Kaposi's sarcoma","10x chromium","Homo sapiens","NextSeq 500","23752","885","11","1","0","0"
+"SRA843432","SRS4322342","Kaposi's sarcoma","10x chromium","Homo sapiens","NextSeq 500","28271","1799","11","1","0","0"
+"SRA843432","SRS4322343","Kaposi's sarcoma","10x chromium","Homo sapiens","NextSeq 500","24448","989","11","1","0","0"
+"SRA755541","SRS3639051","Kaposi's sarcoma","10x chromium","Mus musculus","NextSeq 500","24287","1554","7","1","0","0"
+"SRA755541","SRS3639050","Kaposi's sarcoma","10x chromium","Mus musculus","NextSeq 500","25337","2302","9","1","0","0"
+"SRA755541","SRS3639053","Thymocytes","10x chromium","Mus musculus","NextSeq 500","24573","2293","9","0","0","0"
+"SRA755541","SRS3639052","Thymocytes","10x chromium","Mus musculus","NextSeq 500","24459","1518","8","0","0","0"

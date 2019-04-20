@@ -204,3 +204,4 @@
 "Tanycytes","Ectoderm","Brain"
 "Gamma delta T cells","Mesoderm","Immune system"
 "Pinealocytes","Ectoderm","Brain"
+"Trichocytes","Mesoderm","Skin"
