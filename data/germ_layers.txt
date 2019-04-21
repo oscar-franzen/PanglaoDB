@@ -205,3 +205,4 @@
 "Gamma delta T cells","Mesoderm","Immune system"
 "Pinealocytes","Ectoderm","Brain"
 "Trichocytes","Mesoderm","Skin"
+"Satellite glial cells","Ectoderm","Brain"
