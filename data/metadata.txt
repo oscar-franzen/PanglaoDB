@@ -1184,3 +1184,5 @@
 "SRA755541","SRS3639050","Kaposi's sarcoma","10x chromium","Mus musculus","NextSeq 500","25337","2302","9","1","0","0"
 "SRA755541","SRS3639053","Thymocytes","10x chromium","Mus musculus","NextSeq 500","24573","2293","9","0","0","0"
 "SRA755541","SRS3639052","Thymocytes","10x chromium","Mus musculus","NextSeq 500","24459","1518","8","0","0","0"
+"SRA664171","SRS3020563","Prostate basal cells","10x chromium","Mus musculus","HiSeq X Ten","31927","2090","20","0","1","0"
+"SRA762414","SRS3703557",\N,"10x chromium","Mus musculus","NextSeq 500","28452","1509","28",\N,\N,\N
