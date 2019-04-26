@@ -1186,4 +1186,7 @@
 "SRA755541","SRS3639052","Thymocytes","10x chromium","Mus musculus","NextSeq 500","24459","1518","8","0","0","0"
 "SRA664171","SRS3020563","Prostate basal cells","10x chromium","Mus musculus","HiSeq X Ten","31927","2090","20","0","1","0"
 "SRA762414","SRS3703557","Heart","10x chromium","Mus musculus","NextSeq 500","28452","1509","28","0","0","0"
-"SRA783521","SRS3821006",\N,"10x chromium","Mus musculus","NextSeq 500","26332","1266","23",\N,\N,\N
+"SRA783521","SRS3821006","Cerebellum","10x chromium","Mus musculus","NextSeq 500","26332","1266","23","0","0","0"
+"SRA832580","SRS4238857",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","32521","2652","17",\N,\N,\N
+"SRA719240","SRS3404199",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","26616","2493","11",\N,\N,\N
+"SRA719240","SRS3404198",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","25938","2063","11",\N,\N,\N
