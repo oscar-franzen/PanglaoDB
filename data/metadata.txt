@@ -1197,5 +1197,14 @@
 "SRA815945","SRS4088994","Nerve","10x chromium","Mus musculus","Illumina HiSeq 2500","30486","1217","31","0","1","0"
 "SRA856483","SRS4457870","Visual cortex","10x chromium","Mus musculus","Illumina HiSeq 2500","28078","2093","18","0","1","0"
 "SRA823777","SRS4151081","Mammary gland","10x chromium","Homo sapiens","NextSeq 500","32996","1244","13","0","1","0"
-"SRA822763","SRS4137616","Aorta","10x chromium","Mus musculus","Illumina HiSeq 4000","20134","954",\N,"0","1","0"
-"SRA852206","SRS4405220","Sub-ventricular zone","10x chromium","Mus musculus","NextSeq 500","23727","1544",\N,"0","1","0"
+"SRA822763","SRS4137616","Aorta","10x chromium","Mus musculus","Illumina HiSeq 4000","20134","954","11","0","1","0"
+"SRA852206","SRS4405220","Sub-ventricular zone","10x chromium","Mus musculus","NextSeq 500","23727","1544","13","0","1","0"
+"SRA745734","SRS3600977","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","26844","1662","18","0","1","0"
+"SRA745734","SRS3600975","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","27832","980","20","0","1","0"
+"SRA830037","SRS4205222",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","23668","1868","17",\N,\N,\N
+"SRA851241","SRS4388158",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","25856","1353","23",\N,\N,\N
+"SRA851241","SRS4388160",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","20671","1332","5",\N,\N,\N
+"SRA851241","SRS4388159",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","26735","1343","24",\N,\N,\N
+"SRA745734","SRS3600974","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","26192","1206","17","0","1","0"
+"SRA830037","SRS4205223",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","23369","1676",\N,\N,\N,\N
+"SRA745734","SRS3600976","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","25324","813",\N,"0","1","0"
