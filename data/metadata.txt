@@ -1201,10 +1201,14 @@
 "SRA852206","SRS4405220","Sub-ventricular zone","10x chromium","Mus musculus","NextSeq 500","23727","1544","13","0","1","0"
 "SRA745734","SRS3600977","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","26844","1662","18","0","1","0"
 "SRA745734","SRS3600975","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","27832","980","20","0","1","0"
-"SRA830037","SRS4205222",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","23668","1868","17",\N,\N,\N
-"SRA851241","SRS4388158",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","25856","1353","23",\N,\N,\N
-"SRA851241","SRS4388160",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","20671","1332","5",\N,\N,\N
-"SRA851241","SRS4388159",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","26735","1343","24",\N,\N,\N
+"SRA830037","SRS4205222","Peritoneal cavity cells","10x chromium","Mus musculus","Illumina HiSeq 2500","23668","1868","17","0","1","0"
+"SRA851241","SRS4388158","Muscle","10x chromium","Mus musculus","Illumina HiSeq 3000","25856","1353","23","0","1","0"
+"SRA851241","SRS4388160","Muscle","10x chromium","Mus musculus","Illumina HiSeq 3000","20671","1332","5","0","1","0"
+"SRA851241","SRS4388159","Muscle","10x chromium","Mus musculus","Illumina HiSeq 3000","26735","1343","24","0","1","0"
 "SRA745734","SRS3600974","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","26192","1206","17","0","1","0"
-"SRA830037","SRS4205223",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","23369","1676",\N,\N,\N,\N
-"SRA745734","SRS3600976","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","25324","813",\N,"0","1","0"
+"SRA830037","SRS4205223","Peritoneal cavity cells","10x chromium","Mus musculus","Illumina HiSeq 2500","23369","1676","15","0","1","0"
+"SRA745734","SRS3600976","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","25324","813","14","0","1","0"
+"SRA851241","SRS4388162",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","20945","2062","6",\N,\N,\N
+"SRA851241","SRS4388164",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","28177","4806","12",\N,\N,\N
+"SRA851241","SRS4388163",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","20361","1353","6",\N,\N,\N
+"SRA851241","SRS4388161",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","19996","1374","5",\N,\N,\N
