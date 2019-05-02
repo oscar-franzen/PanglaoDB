@@ -100,3 +100,4 @@
 "Pyramidal cells","A type of multipolar neuron found in areas of the brain including the cerebral cortex, the hippocampus, and the amygdala. Pyramidal neurons are the primary excitation units of the mammalian prefrontal cortex and the corticospinal tract.","Pyramidal neurons"
 "Pinealocytes","Cells of the Pineal gland.",""
 "Glomus cells","A peripheral chemoreceptor cell type, mainly located in the carotid bodies and aortic bodies, that helps the body regulate breathing.",""
+"Sebocytes","Sebocytes are highly specialized, sebum-producing epithelial cells that release their content by rupture of the cell membrane and cellular degradation (holocrine secretion). These cells are most commonly found in the skin in association with hair follicles (forming the pilosebaceous unit), where they arise from hair follicle keratinocytes.",""

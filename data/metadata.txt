@@ -1208,13 +1208,23 @@
 "SRA745734","SRS3600974","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","26192","1206","17","0","1","0"
 "SRA830037","SRS4205223","Peritoneal cavity cells","10x chromium","Mus musculus","Illumina HiSeq 2500","23369","1676","15","0","1","0"
 "SRA745734","SRS3600976","Intestinal epithelium","10x chromium","Mus musculus","Illumina HiSeq 3000","25324","813","14","0","1","0"
-"SRA851241","SRS4388162",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","20945","2062","6",\N,\N,\N
-"SRA851241","SRS4388164",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","28177","4806","12",\N,\N,\N
-"SRA851241","SRS4388163",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","20361","1353","6",\N,\N,\N
-"SRA851241","SRS4388161",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","19996","1374","5",\N,\N,\N
-"SRA728025","SRS3454423",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","29061","677","14",\N,\N,\N
-"SRA728025","SRS3454424",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","28569","1504","14",\N,\N,\N
-"SRA728025","SRS3454421",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","28359","805","14",\N,\N,\N
-"SRA797768","SRS3969076",\N,"10x chromium","Mus musculus","NextSeq 500","22819","1266","9",\N,\N,\N
-"SRA797768","SRS4351136",\N,"10x chromium","Mus musculus","NextSeq 500","24537","1364","15",\N,\N,\N
-"SRA728025","SRS3454422",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","28559","768","13",\N,\N,\N
+"SRA851241","SRS4388162","Muscle satellite cells","10x chromium","Mus musculus","Illumina HiSeq 3000","20945","2062","6","0","1","0"
+"SRA851241","SRS4388164","Muscle satellite cells","10x chromium","Mus musculus","Illumina HiSeq 3000","28177","4806","12","0","0","0"
+"SRA851241","SRS4388163","Muscle satellite cells","10x chromium","Mus musculus","Illumina HiSeq 3000","20361","1353","6","0","1","0"
+"SRA851241","SRS4388161","Muscle satellite cells","10x chromium","Mus musculus","Illumina HiSeq 3000","19996","1374","5","0","1","0"
+"SRA728025","SRS3454423","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","29061","677","14","0","1","0"
+"SRA728025","SRS3454424","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","28569","1504","14","0","1","0"
+"SRA728025","SRS3454421","Inflamed area of colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","28359","805","14","0","1","0"
+"SRA797768","SRS3969076","Bone marrow mesenchymal and endothelial cells","10x chromium","Mus musculus","NextSeq 500","22819","1266","9","0","1","0"
+"SRA797768","SRS4351136","Bone marrow mesenchymal and endothelial cells","10x chromium","Mus musculus","NextSeq 500","24537","1364","15","0","1","0"
+"SRA728025","SRS3454422","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","28559","768","13","0","1","0"
+"SRA705190","SRS4139633",\N,"10x chromium","Homo sapiens","NextSeq 500","29740","2344","13",\N,\N,\N
+"SRA728025","SRS3454428",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","31401","848","17",\N,\N,\N
+"SRA728025","SRS3454426",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","28536","1416","13",\N,\N,\N
+"SRA705190","SRS3306242",\N,"10x chromium","Homo sapiens","NextSeq 500","35306","1388","22",\N,\N,\N
+"SRA705190","SRS4139635",\N,"10x chromium","Homo sapiens","NextSeq 500","29510","1925","15",\N,\N,\N
+"SRA705190","SRS4139632",\N,"10x chromium","Homo sapiens","NextSeq 500","19676","3068","3",\N,\N,\N
+"SRA728025","SRS3454427",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","29485","805","18",\N,\N,\N
+"SRA728025","SRS3454430",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","29955","964","18",\N,\N,\N
+"SRA728025","SRS3454425",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","27685","1085","16",\N,\N,\N
+"SRA705190","SRS4139634",\N,"10x chromium","Homo sapiens","NextSeq 500","30049","1799",\N,\N,\N,\N

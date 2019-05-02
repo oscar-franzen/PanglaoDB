@@ -206,3 +206,4 @@
 "Pinealocytes","Ectoderm","Brain"
 "Trichocytes","Mesoderm","Skin"
 "Satellite glial cells","Ectoderm","Brain"
+"Sebocytes","Mesoderm","Skin"
