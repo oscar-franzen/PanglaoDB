@@ -1218,13 +1218,15 @@
 "SRA797768","SRS3969076","Bone marrow mesenchymal and endothelial cells","10x chromium","Mus musculus","NextSeq 500","22819","1266","9","0","1","0"
 "SRA797768","SRS4351136","Bone marrow mesenchymal and endothelial cells","10x chromium","Mus musculus","NextSeq 500","24537","1364","15","0","1","0"
 "SRA728025","SRS3454422","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","28559","768","13","0","1","0"
-"SRA705190","SRS4139633",\N,"10x chromium","Homo sapiens","NextSeq 500","29740","2344","13",\N,\N,\N
-"SRA728025","SRS3454428",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","31401","848","17",\N,\N,\N
-"SRA728025","SRS3454426",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","28536","1416","13",\N,\N,\N
-"SRA705190","SRS3306242",\N,"10x chromium","Homo sapiens","NextSeq 500","35306","1388","22",\N,\N,\N
-"SRA705190","SRS4139635",\N,"10x chromium","Homo sapiens","NextSeq 500","29510","1925","15",\N,\N,\N
-"SRA705190","SRS4139632",\N,"10x chromium","Homo sapiens","NextSeq 500","19676","3068","3",\N,\N,\N
-"SRA728025","SRS3454427",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","29485","805","18",\N,\N,\N
-"SRA728025","SRS3454430",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","29955","964","18",\N,\N,\N
-"SRA728025","SRS3454425",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","27685","1085","16",\N,\N,\N
-"SRA705190","SRS4139634",\N,"10x chromium","Homo sapiens","NextSeq 500","30049","1799",\N,\N,\N,\N
+"SRA705190","SRS4139633","Embryonic kidney","10x chromium","Homo sapiens","NextSeq 500","29740","2344","13","0","0","0"
+"SRA728025","SRS3454428","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","31401","848","17","0","1","0"
+"SRA728025","SRS3454426","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","28536","1416","13","0","1","0"
+"SRA705190","SRS3306242","Embryonic kidney","10x chromium","Homo sapiens","NextSeq 500","35306","1388","22","0","0","0"
+"SRA705190","SRS4139635","Embryonic kidney","10x chromium","Homo sapiens","NextSeq 500","29510","1925","15","0","0","0"
+"SRA705190","SRS4139632","Embryonic kidney","10x chromium","Homo sapiens","NextSeq 500","19676","3068","3","0","0","0"
+"SRA728025","SRS3454427","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","29485","805","18","0","1","0"
+"SRA728025","SRS3454430","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","29955","964","18","0","1","0"
+"SRA728025","SRS3454425","Colon","10x chromium","Homo sapiens","Illumina NovaSeq 6000","27685","1085","16","0","1","0"
+"SRA705190","SRS4139634","Embryonic kidney","10x chromium","Homo sapiens","NextSeq 500","30049","1799","16","0","0","0"
+"SRA850127","SRS4376745","Hypothalamus","10x chromium","Mus musculus","NextSeq 500","27665","1071","20","0","0","0"
+"SRA850127","SRS4376744","Hypothalamus","10x chromium","Mus musculus","NextSeq 500","26882","1158","18","0","0","0"

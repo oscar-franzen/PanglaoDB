@@ -207,3 +207,5 @@
 "Trichocytes","Mesoderm","Skin"
 "Satellite glial cells","Ectoderm","Brain"
 "Sebocytes","Mesoderm","Skin"
+"Parathyroid chief cells","Endoderm","Parathyroid glands"
+"Oxyphil cells","Endoderm","Parathyroid glands"
