@@ -209,3 +209,6 @@
 "Sebocytes","Mesoderm","Skin"
 "Parathyroid chief cells","Endoderm","Parathyroid glands"
 "Oxyphil cells","Endoderm","Parathyroid glands"
+"Chromaffin cells","Mesoderm","Adrenal glands"
+"Trophoblast stem cells","Zygote","Embryo"
+"Trophoblast progenitor cells","Zygote","Embryo"

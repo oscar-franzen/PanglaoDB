@@ -1230,7 +1230,17 @@
 "SRA705190","SRS4139634","Embryonic kidney","10x chromium","Homo sapiens","NextSeq 500","30049","1799","16","0","0","0"
 "SRA850127","SRS4376745","Hypothalamus","10x chromium","Mus musculus","NextSeq 500","27665","1071","20","0","0","0"
 "SRA850127","SRS4376744","Hypothalamus","10x chromium","Mus musculus","NextSeq 500","26882","1158","18","0","0","0"
-"SRA856537","SRS4458843",\N,"10x chromium","Homo sapiens","Illumina HiSeq 3000","27765","4088","9",\N,\N,\N
-"SRA856537","SRS4458841",\N,"10x chromium","Homo sapiens","Illumina HiSeq 3000","27507","3922","7",\N,\N,\N
-"SRA856537","SRS4458842",\N,"10x chromium","Homo sapiens","Illumina HiSeq 3000","27424","3936","8",\N,\N,\N
-"SRA856537","SRS4458844",\N,"10x chromium","Homo sapiens","Illumina HiSeq 3000","27260","3727","8",\N,\N,\N
+"SRA856537","SRS4458843","Unknown","10x chromium","Homo sapiens","Illumina HiSeq 3000","27765","4088","9","0","0","1"
+"SRA856537","SRS4458841","Unknown","10x chromium","Homo sapiens","Illumina HiSeq 3000","27507","3922","7","0","0","1"
+"SRA856537","SRS4458842","Unknown","10x chromium","Homo sapiens","Illumina HiSeq 3000","27424","3936","8","0","0","1"
+"SRA856537","SRS4458844","Unknown","10x chromium","Homo sapiens","Illumina HiSeq 3000","27260","3727","8","0","0","1"
+"SRA850958","SRS4386097",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","16648","876","1",\N,\N,\N
+"SRA850958","SRS4386091",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","22971","841","4",\N,\N,\N
+"SRA850958","SRS4386095",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","19192","872","2",\N,\N,\N
+"SRA850958","SRS4386088","Stria terminalis (brain)","10x chromium","Mus musculus","Illumina NovaSeq 6000","32621","1734","19","0","1","0"
+"SRA850958","SRS4386089","Stria terminalis (brain)","10x chromium","Mus musculus","Illumina NovaSeq 6000","32453","1700","20","0","1","0"
+"SRA850958","SRS4386090","Stria terminalis (brain)","10x chromium","Mus musculus","Illumina NovaSeq 6000","31082","1476","22","0","1","0"
+"SRA850958","SRS4386093",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","15824","840","2",\N,\N,\N
+"SRA850958","SRS4386092",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","21087","837","3",\N,\N,\N
+"SRA850958","SRS4386096",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","15800","836","1",\N,\N,\N
+"SRA850958","SRS4386094",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","18870","861","2",\N,\N,\N
