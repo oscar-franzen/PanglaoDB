@@ -101,3 +101,4 @@
 "Pinealocytes","Cells of the Pineal gland.",""
 "Glomus cells","A peripheral chemoreceptor cell type, mainly located in the carotid bodies and aortic bodies, that helps the body regulate breathing.",""
 "Sebocytes","Sebocytes are highly specialized, sebum-producing epithelial cells that release their content by rupture of the cell membrane and cellular degradation (holocrine secretion). These cells are most commonly found in the skin in association with hair follicles (forming the pilosebaceous unit), where they arise from hair follicle keratinocytes.",""
+"Chondrocytes","Cells which has secreted the matrix of cartilage and become embedded in it.",""
