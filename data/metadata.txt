@@ -1234,13 +1234,31 @@
 "SRA856537","SRS4458841","Unknown","10x chromium","Homo sapiens","Illumina HiSeq 3000","27507","3922","7","0","0","1"
 "SRA856537","SRS4458842","Unknown","10x chromium","Homo sapiens","Illumina HiSeq 3000","27424","3936","8","0","0","1"
 "SRA856537","SRS4458844","Unknown","10x chromium","Homo sapiens","Illumina HiSeq 3000","27260","3727","8","0","0","1"
-"SRA850958","SRS4386097",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","16648","876","1",\N,\N,\N
-"SRA850958","SRS4386091",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","22971","841","4",\N,\N,\N
-"SRA850958","SRS4386095",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","19192","872","2",\N,\N,\N
+"SRA850958","SRS4386091","Substantia nigra","10x chromium","Homo sapiens","Illumina NovaSeq 6000","22971","841","4","0","1","0"
 "SRA850958","SRS4386088","Stria terminalis (brain)","10x chromium","Mus musculus","Illumina NovaSeq 6000","32621","1734","19","0","1","0"
 "SRA850958","SRS4386089","Stria terminalis (brain)","10x chromium","Mus musculus","Illumina NovaSeq 6000","32453","1700","20","0","1","0"
 "SRA850958","SRS4386090","Stria terminalis (brain)","10x chromium","Mus musculus","Illumina NovaSeq 6000","31082","1476","22","0","1","0"
-"SRA850958","SRS4386093",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","15824","840","2",\N,\N,\N
-"SRA850958","SRS4386092",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","21087","837","3",\N,\N,\N
-"SRA850958","SRS4386096",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","15800","836","1",\N,\N,\N
-"SRA850958","SRS4386094",\N,"10x chromium","Homo sapiens","Illumina NovaSeq 6000","18870","861","2",\N,\N,\N
+"SRA850958","SRS4386092","Substantia nigra","10x chromium","Homo sapiens","Illumina NovaSeq 6000","21087","837","3","0","1","0"
+"SRA850958","SRS4386125","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","32946","1810","20","0","1","0"
+"SRA850958","SRS4386109","Substantia nigra","10x chromium","Homo sapiens","Illumina NovaSeq 6000","29229","1073","9","0","1","0"
+"SRA769148","SRS3747198","Cord blood","10x chromium","Homo sapiens","NextSeq 500","27035","2303","9","0","0","0"
+"SRA769148","SRS3747193","Cord blood","10x chromium","Homo sapiens","NextSeq 500","26835","2574","7","0","0","0"
+"SRA850958","SRS4386123","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","31041","1574","19","0","1","0"
+"SRA850958","SRS4386120","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","30737","1736","17","0","1","0"
+"SRA769148","SRS3747196","Cord blood","10x chromium","Homo sapiens","NextSeq 500","26469","2763","7","0","0","0"
+"SRA769148","SRS3747195","Cord blood","10x chromium","Homo sapiens","NextSeq 500","24929","1981","9","0","0","0"
+"SRA850958","SRS4386117","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","31161","1134","23","0","1","0"
+"SRA850958","SRS4386119","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","31665","1880","16","0","1","0"
+"SRA850958","SRS4386110","Substantia nigra","10x chromium","Homo sapiens","Illumina NovaSeq 6000","27881","1061","9","0","1","0"
+"SRA850958","SRS4386116","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","29402","1058","22","0","1","0"
+"SRA850958","SRS4386126","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","32671","1610","23","0","1","0"
+"SRA850958","SRS4386122","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","33197","1735","19","0","1","0"
+"SRA850958","SRS4386101","Substantia nigra","10x chromium","Homo sapiens","Illumina NovaSeq 6000","26921","980","5","0","1","0"
+"SRA850958","SRS4386121","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","35325","2050",\N,"0","1","0"
+"SRA850958","SRS4386118","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","29833","1123",\N,"0","1","0"
+"SRA850958","SRS4386107","Substantia nigra","10x chromium","Homo sapiens","Illumina NovaSeq 6000","24366","916",\N,"0","1","0"
+"SRA850958","SRS4386112","Substantia nigra","10x chromium","Homo sapiens","Illumina NovaSeq 6000","32361","1116",\N,"0","1","0"
+"SRA850958","SRS4386127","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","31569","1654",\N,"0","1","0"
+"SRA769148","SRS3747194","Cord blood","10x chromium","Homo sapiens","NextSeq 500","26867","2654",\N,"0","0","0"
+"SRA850958","SRS4386124","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","32344","1775",\N,"0","1","0"
+"SRA769148","SRS3747197","Cord blood","10x chromium","Homo sapiens","NextSeq 500","26323","2727",\N,"0","0","0"

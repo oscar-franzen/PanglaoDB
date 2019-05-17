@@ -102,3 +102,4 @@
 "Glomus cells","A peripheral chemoreceptor cell type, mainly located in the carotid bodies and aortic bodies, that helps the body regulate breathing.",""
 "Sebocytes","Sebocytes are highly specialized, sebum-producing epithelial cells that release their content by rupture of the cell membrane and cellular degradation (holocrine secretion). These cells are most commonly found in the skin in association with hair follicles (forming the pilosebaceous unit), where they arise from hair follicle keratinocytes.",""
 "Chondrocytes","Cells which has secreted the matrix of cartilage and become embedded in it.",""
+"Tanycytes","Tanycytes are special ependymal cells found in the third ventricle of the brain, and on the floor of the fourth ventricle and have processes extending deep into the hypothalamus. It is possible that their function is to transfer chemical signals from the cerebrospinal fluid to the central nervous system.",""
