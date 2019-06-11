@@ -1267,6 +1267,8 @@
 "SRA850958","SRS4386114","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","30857","1438","20","0","1","0"
 "SRA850958","SRS4386115","Bed nucleus of the stria terminalis","10x chromium","Mus musculus","Illumina NovaSeq 6000","27653","1220","19","0","1","0"
 "SRA839328","SRS4292911","Sorted myeloid cells","10x chromium","Mus musculus","Illumina HiSeq 4000","23813","1571","18","0","0","0"
-"SRA757237","SRS3664882",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","27110","1841","32",\N,\N,\N
+"SRA757237","SRS3664882","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","27110","1841","32","0","0","0"
 "SRA767234","SRS3741870","Tonsil CD14+ cells","10x chromium","Homo sapiens","Illumina HiSeq 2500","25329","1353","13","0","1","0"
-"SRA757237","SRS3664881",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","25973","2379","20",\N,\N,\N
+"SRA757237","SRS3664881","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","25973","2379","20","0","0","0"
+"SRA783173","SRS3818732",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","29598","2351","15",\N,\N,\N
+"SRA783173","SRS3818733",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","28221","2992","15",\N,\N,\N
