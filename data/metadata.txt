@@ -1272,3 +1272,11 @@
 "SRA757237","SRS3664881","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","25973","2379","20","0","0","0"
 "SRA783173","SRS3818732",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","29598","2351","15",\N,\N,\N
 "SRA783173","SRS3818733",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","28221","2992","15",\N,\N,\N
+"SRA868105","SRS4566017",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","22621","1434","9",\N,\N,\N
+"SRA767245","SRS3741879",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","22360","1662","6",\N,\N,\N
+"SRA774683","SRS3785494",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","22474","1486","10",\N,\N,\N
+"SRA868105","SRS4566019",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","25958","2349","11",\N,\N,\N
+"SRA767245","SRS3741880",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","23517","1608","9",\N,\N,\N
+"SRA774683","SRS3785493",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","21257","1925","7",\N,\N,\N
+"SRA767245","SRS3741878",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","23303","1589","7",\N,\N,\N
+"SRA774683","SRS3785492",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","24813","1354","14",\N,\N,\N
