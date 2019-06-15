@@ -1270,24 +1270,28 @@
 "SRA757237","SRS3664882","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","27110","1841","32","0","0","0"
 "SRA767234","SRS3741870","Tonsil CD14+ cells","10x chromium","Homo sapiens","Illumina HiSeq 2500","25329","1353","13","0","1","0"
 "SRA757237","SRS3664881","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","25973","2379","20","0","0","0"
-"SRA783173","SRS3818732",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","29598","2351","15",\N,\N,\N
-"SRA783173","SRS3818733",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","28221","2992","15",\N,\N,\N
-"SRA868105","SRS4566017",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","22621","1434","9",\N,\N,\N
-"SRA767245","SRS3741879",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","22360","1662","6",\N,\N,\N
-"SRA774683","SRS3785494",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","22474","1486","10",\N,\N,\N
-"SRA868105","SRS4566019",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","25958","2349","11",\N,\N,\N
-"SRA767245","SRS3741880",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","23517","1608","9",\N,\N,\N
-"SRA774683","SRS3785493",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","21257","1925","7",\N,\N,\N
-"SRA767245","SRS3741878",\N,"10x chromium","Homo sapiens","Illumina HiSeq 2500","23303","1589","7",\N,\N,\N
-"SRA774683","SRS3785492",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","24813","1354","14",\N,\N,\N
-"SRA742982","SRS3565409",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","32775","2428","24",\N,\N,\N
-"SRA742982","SRS3565397",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","32189","2403","21",\N,\N,\N
-"SRA867342","SRS4550171",\N,"drop-seq","Homo sapiens","Illumina HiSeq 2500","20373","1080","7",\N,\N,\N
-"SRA742982","SRS3565399",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","31132","2356","25",\N,\N,\N
-"SRA742982","SRS3565401",\N,"10x chromium","Mus musculus","Illumina HiSeq 3000","31654","2388","20",\N,\N,\N
-"SRA867342","SRS4550172",\N,"drop-seq","Homo sapiens","Illumina HiSeq 2500","25371","1371","12",\N,\N,\N
-"SRA867342","SRS4550173",\N,"drop-seq","Homo sapiens","Illumina HiSeq 2500","23788","1349","11",\N,\N,\N
-"SRA815866","SRS4088857",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","23610","2183","11",\N,\N,\N
-"SRA815866","SRS4088858",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","27000","1916","16",\N,\N,\N
-"SRA815866","SRS4088856",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","27437","2084","20",\N,\N,\N
-"SRA815866","SRS4088855",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","27310","3072","18",\N,\N,\N
+"SRA783173","SRS3818732","Epidermal cells","10x chromium","Mus musculus","Illumina HiSeq 2500","29598","2351","15","0","0","0"
+"SRA783173","SRS3818733","Epidermal cells","10x chromium","Mus musculus","Illumina HiSeq 2500","28221","2992","15","0","0","0"
+"SRA868105","SRS4566017","Hind limb muscles","10x chromium","Mus musculus","Illumina HiSeq 2500","22621","1434","9","0","0","0"
+"SRA767245","SRS3741879","Tonsil CD4 T cells","10x chromium","Homo sapiens","Illumina HiSeq 2500","22360","1662","6","0","0","0"
+"SRA774683","SRS3785494","Commensal-specific CD8+ T cells","10x chromium","Mus musculus","Illumina HiSeq 3000","22474","1486","10","0","1","0"
+"SRA868105","SRS4566019","Hind limb muscles","10x chromium","Mus musculus","Illumina HiSeq 2500","25958","2349","11","0","0","0"
+"SRA767245","SRS3741880","Tonsil CD4 T cells","10x chromium","Homo sapiens","Illumina HiSeq 2500","23517","1608","9","0","0","0"
+"SRA774683","SRS3785493","Commensal-specific CD8+ T cells","10x chromium","Mus musculus","Illumina HiSeq 3000","21257","1925","7","0","1","0"
+"SRA767245","SRS3741878","Tonsil CD4 T cells","10x chromium","Homo sapiens","Illumina HiSeq 2500","23303","1589","7","0","0","0"
+"SRA774683","SRS3785492","Commensal-specific CD8+ T cells","10x chromium","Mus musculus","Illumina HiSeq 3000","24813","1354","14","0","1","0"
+"SRA742982","SRS3565409","Testis","10x chromium","Mus musculus","Illumina HiSeq 3000","32775","2428","24","0","0","0"
+"SRA742982","SRS3565397","Testis","10x chromium","Mus musculus","Illumina HiSeq 3000","32189","2403","21","0","0","0"
+"SRA867342","SRS4550171","T cells","drop-seq","Homo sapiens","Illumina HiSeq 2500","20373","1080","7","0","0","0"
+"SRA742982","SRS3565399","Testis","10x chromium","Mus musculus","Illumina HiSeq 3000","31132","2356","25","0","0","0"
+"SRA742982","SRS3565401","Testis","10x chromium","Mus musculus","Illumina HiSeq 3000","31654","2388","20","0","0","0"
+"SRA867342","SRS4550172","T cells","drop-seq","Homo sapiens","Illumina HiSeq 2500","25371","1371","12","0","0","0"
+"SRA867342","SRS4550173","T cells","drop-seq","Homo sapiens","Illumina HiSeq 2500","23788","1349","11","0","0","0"
+"SRA815866","SRS4088857","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","23610","2183","11","0","1","0"
+"SRA815866","SRS4088858","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","27000","1916","16","0","1","0"
+"SRA815866","SRS4088856","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","27437","2084","20","0","1","0"
+"SRA815866","SRS4088855","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","27310","3072","18","0","1","0"
+"SRA837885","SRS4281822","Gonadal adipose tissue","10x chromium","Mus musculus","Illumina HiSeq 4000","21482","1590","5","0","0","0"
+"SRA837885","SRS4281821","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","21160","965","5","0","0","0"
+"SRA837885","SRS4281819","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","17975","807","7","0","0","0"
+"SRA837885","SRS4281820","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","23130","939","9","0","0","0"
