@@ -1296,9 +1296,7 @@
 "SRA837885","SRS4281819","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","17975","807","7","0","0","0"
 "SRA837885","SRS4281820","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","23130","939","9","0","0","0"
 "SRA878024","SRS4660847",\N,"drop-seq","Homo sapiens","Illumina HiSeq 4000","22375","835","9",\N,\N,\N
-"SRA643298","SRS2804422",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","17518","962","4",\N,\N,\N
 "SRA878024","SRS4660845",\N,"drop-seq","Homo sapiens","Illumina HiSeq 4000","22209","919","7",\N,\N,\N
-"SRA643298","SRS2804419",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","0","0",\N,\N,\N,\N
 "SRA643298","SRS2804420",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","18823","784","11",\N,\N,\N
 "SRA643298","SRS2804423",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","18586","725","12",\N,\N,\N
 "SRA878024","SRS4660846",\N,"drop-seq","Homo sapiens","Illumina HiSeq 4000","23224","981","8",\N,\N,\N
