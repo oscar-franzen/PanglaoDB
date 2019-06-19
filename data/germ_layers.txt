@@ -212,3 +212,4 @@
 "Chromaffin cells","Mesoderm","Adrenal glands"
 "Trophoblast stem cells","Zygote","Embryo"
 "Trophoblast progenitor cells","Zygote","Embryo"
+"Luteal cells","Mesoderm","Reproductive"
