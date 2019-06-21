@@ -1307,3 +1307,6 @@
 "SRA877776","SRS4655564","Distal small intestine","10x chromium","Mus musculus","Illumina HiSeq 2500","23560","1117","19","0","1","0"
 "SRA877776","SRS4655563","Distal small intestine","10x chromium","Mus musculus","Illumina HiSeq 2500","23836","1068","14","0","1","0"
 "SRA877776","SRS4655560","Distal small intestine","10x chromium","Mus musculus","Illumina HiSeq 2500","22435","862","10","0","1","0"
+"SRA645056","SRS2819415",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","27192","3263","16",\N,\N,\N
+"SRA645056","SRS2819414",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","26682","1381","15",\N,\N,\N
+"SRA645056","SRS2819419",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000",\N,\N,\N,\N,\N,\N
