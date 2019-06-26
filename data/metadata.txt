@@ -1316,3 +1316,10 @@
 "SRA868228","SRS4567381","Lung","10x chromium","Mus musculus","NextSeq 500","24584","1263","18","0","1","0"
 "SRA645056","SRS2819418","Bone marrow","10x chromium","Mus musculus","Illumina HiSeq 4000","23958","1784","11","0","1","0"
 "SRA868228","SRS4567382","Lung","10x chromium","Mus musculus","NextSeq 500","24392","1334","15","0","1","0"
+"SRA862468","SRS4512237",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","25144","1529","17",\N,\N,\N
+"SRA862468","SRS4512239",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","25632","1691","21",\N,\N,\N
+"SRA862468","SRS4512240",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","25110","1649","18",\N,\N,\N
+"SRA862468","SRS4512243",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","25917","1753","20",\N,\N,\N
+"SRA862468","SRS4512238",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","25999","1435","23",\N,\N,\N
+"SRA862468","SRS4512242",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","26302","1643","19",\N,\N,\N
+"SRA862468","SRS4512241",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","24836","1670","17",\N,\N,\N
