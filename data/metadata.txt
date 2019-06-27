@@ -1332,4 +1332,4 @@
 "SRA751294","SRS3625040",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","27720","2003","30",\N,\N,\N
 "SRA751294","SRS3625047",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","29589","1319","31",\N,\N,\N
 "SRA751294","SRS3625044",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","29362","2410","34",\N,\N,\N
-"SRA751294","SRS3625042",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","29531","2159",\N,\N,\N,\N
+"SRA751294","SRS3625042",\N,"10x chromium","Mus musculus","Illumina HiSeq 2500","29531","2159","31",\N,\N,\N
