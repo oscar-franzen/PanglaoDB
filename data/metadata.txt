@@ -1338,3 +1338,10 @@
 "SRA688150","SRS3161281","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","21278","1761","8","0","0","0"
 "SRA688150","SRS3161262","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","21429","1726","9","0","0","0"
 "SRA688150","SRS3161263","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","23416","1806","14","0","0","0"
+"SRA866994","SRS4545962",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","24865","1314","19",\N,\N,\N
+"SRA866994","SRS4545966",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","24929","1239","25",\N,\N,\N
+"SRA866994","SRS4545958",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","29097","1519","27",\N,\N,\N
+"SRA866994","SRS4545961",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","26219","1557","22",\N,\N,\N
+"SRA866994","SRS4545963",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","23199","1426","21",\N,\N,\N
+"SRA866994","SRS4545959",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","25059","1615","24",\N,\N,\N
+"SRA866994","SRS4545965",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","24295","1349",\N,\N,\N,\N
