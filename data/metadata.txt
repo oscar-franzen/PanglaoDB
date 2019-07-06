@@ -1338,10 +1338,24 @@
 "SRA688150","SRS3161281","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","21278","1761","8","0","0","0"
 "SRA688150","SRS3161262","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","21429","1726","9","0","0","0"
 "SRA688150","SRS3161263","Lung","10x chromium","Mus musculus","Illumina HiSeq 4000","23416","1806","14","0","0","0"
-"SRA866994","SRS4545962",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","24865","1314","19",\N,\N,\N
-"SRA866994","SRS4545966",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","24929","1239","25",\N,\N,\N
-"SRA866994","SRS4545958",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","29097","1519","27",\N,\N,\N
-"SRA866994","SRS4545961",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","26219","1557","22",\N,\N,\N
-"SRA866994","SRS4545963",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","23199","1426","21",\N,\N,\N
-"SRA866994","SRS4545959",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","25059","1615","24",\N,\N,\N
-"SRA866994","SRS4545965",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","24295","1349",\N,\N,\N,\N
+"SRA866994","SRS4545962","Brain","10x chromium","Mus musculus","Illumina HiSeq 4000","24865","1314","19","0","1","0"
+"SRA866994","SRS4545966","Dura mater","10x chromium","Mus musculus","Illumina HiSeq 4000","24929","1239","25","0","1","0"
+"SRA866994","SRS4545958","Dura mater","10x chromium","Mus musculus","Illumina HiSeq 4000","29097","1519","27","0","1","0"
+"SRA866994","SRS4545961","Brain","10x chromium","Mus musculus","Illumina HiSeq 4000","26219","1557","22","0","1","0"
+"SRA866994","SRS4545963","Brain","10x chromium","Mus musculus","Illumina HiSeq 4000","23199","1426","21","0","1","0"
+"SRA866994","SRS4545959","Choroid plexus","10x chromium","Mus musculus","Illumina HiSeq 4000","25059","1615","24","0","1","0"
+"SRA866994","SRS4545965","Dura mater","10x chromium","Mus musculus","Illumina HiSeq 4000","24295","1349","24","0","1","0"
+"SRA866994","SRS4545964","Brain","10x chromium","Mus musculus","Illumina HiSeq 4000","23721","1462","20","0","1","0"
+"SRA866994","SRS4545960","Subdural meninges","10x chromium","Mus musculus","Illumina HiSeq 4000","27387","1617","18","0","1","0"
+"SRA866994","SRS4545967","Choroid plexus","10x chromium","Mus musculus","Illumina HiSeq 4000","22921","1774","22","0","1","0"
+"SRA815737","SRS4087853",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","23071","3284","7",\N,\N,\N
+"SRA815737","SRS4087855",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","17906","1926","4",\N,\N,\N
+"SRA866994","SRS4545970",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","24795","1345","23",\N,\N,\N
+"SRA815737","SRS4087857",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","29438","3841","13",\N,\N,\N
+"SRA815737","SRS4087856",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","22007","284","6",\N,\N,\N
+"SRA866994","SRS4545972",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","22911","1796","18",\N,\N,\N
+"SRA815737","SRS4087858",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","28851","2382","14",\N,\N,\N
+"SRA866994","SRS4545971",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","24316","1691","24",\N,\N,\N
+"SRA866994","SRS4545969",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","23749","1539","14",\N,\N,\N
+"SRA866994","SRS4545968",\N,"10x chromium","Mus musculus","Illumina HiSeq 4000","22744","1918","16",\N,\N,\N
+"SRA815737","SRS4087854",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","23398","3650","7",\N,\N,\N
