@@ -1358,10 +1358,12 @@
 "SRA866994","SRS4545969","Dura mater","10x chromium","Mus musculus","Illumina HiSeq 4000","23749","1539","14","0","1","0"
 "SRA866994","SRS4545968","Choroid plexus","10x chromium","Mus musculus","Illumina HiSeq 4000","22744","1918","16","0","1","0"
 "SRA815737","SRS4087854","Embryo","10x chromium","Mus musculus","Illumina NovaSeq 6000","23398","3650","7","0","0","0"
-"SRA815737","SRS4087864",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","28160","4953","13",\N,\N,\N
-"SRA815737","SRS4087859",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","29031","3042","16",\N,\N,\N
-"SRA815737","SRS4087862",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","24197","1836","14",\N,\N,\N
-"SRA815737","SRS4087865",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","29024","4674","15",\N,\N,\N
-"SRA815737","SRS4087860",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","28832","3092","15",\N,\N,\N
-"SRA815737","SRS4087861",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","27700","2891","16",\N,\N,\N
-"SRA815737","SRS4087863",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","25368","2048","14",\N,\N,\N
+"SRA815737","SRS4087864","Embryo","10x chromium","Mus musculus","Illumina NovaSeq 6000","28160","4953","13","0","0","0"
+"SRA815737","SRS4087859","Embryo","10x chromium","Mus musculus","Illumina NovaSeq 6000","29031","3042","16","0","0","0"
+"SRA815737","SRS4087862","Embryo","10x chromium","Mus musculus","Illumina NovaSeq 6000","24197","1836","14","0","0","0"
+"SRA815737","SRS4087865","Embryo","10x chromium","Mus musculus","Illumina NovaSeq 6000","29024","4674","15","0","0","0"
+"SRA815737","SRS4087860","Embryo","10x chromium","Mus musculus","Illumina NovaSeq 6000","28832","3092","15","0","0","0"
+"SRA815737","SRS4087861","Embryo","10x chromium","Mus musculus","Illumina NovaSeq 6000","27700","2891","16","0","0","0"
+"SRA815737","SRS4087863","Embryo","10x chromium","Mus musculus","Illumina NovaSeq 6000","25368","2048","14","0","0","0"
+"SRA815737","SRS4087866",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","26442","2401","14",\N,\N,\N
+"SRA815737","SRS4087867",\N,"10x chromium","Mus musculus","Illumina NovaSeq 6000","29608","3820","20",\N,\N,\N
